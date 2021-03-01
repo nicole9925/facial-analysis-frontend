@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/racial-classification-xai-webapp/static/css/main.34a2af9e.chunk.css",
-    "main.js": "/racial-classification-xai-webapp/static/js/main.2c84e63d.chunk.js",
-    "main.js.map": "/racial-classification-xai-webapp/static/js/main.2c84e63d.chunk.js.map",
+    "main.js": "/racial-classification-xai-webapp/static/js/main.dbc6709f.chunk.js",
+    "main.js.map": "/racial-classification-xai-webapp/static/js/main.dbc6709f.chunk.js.map",
     "runtime-main.js": "/racial-classification-xai-webapp/static/js/runtime-main.dae84f1f.js",
     "runtime-main.js.map": "/racial-classification-xai-webapp/static/js/runtime-main.dae84f1f.js.map",
     "static/css/2.86e65bd8.chunk.css": "/racial-classification-xai-webapp/static/css/2.86e65bd8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.86e65bd8.chunk.css",
     "static/js/2.d11c26af.chunk.js",
     "static/css/main.34a2af9e.chunk.css",
-    "static/js/main.2c84e63d.chunk.js"
+    "static/js/main.dbc6709f.chunk.js"
   ]
 }

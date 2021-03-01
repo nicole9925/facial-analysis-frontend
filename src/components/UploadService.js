@@ -8,7 +8,7 @@ class UploadService {
     data.append('file', parts[2].split(",")[1]);
     data.append('filename', name);
     
-    let response = await fetch('/api/upload/', {
+    let response = await fetch('https://facial-analysis-backend.herokuapp.com/api/upload/', {
       method: 'POST',
       body: data
     })
