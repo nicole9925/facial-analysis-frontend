@@ -79,7 +79,7 @@ const Upload = (props) => {
         const progress = props.progress
         switch(progress) {
             case 'getUpload':
-                fetch('https://git.heroku.com/facial-analysis-backend.git/api/clear/')
+                fetch('https://facial-analysis-backend.herokuapp.com/api/clear/')
                 return <>
                 <div className="upload-container">
                     <UploadComponent onImage={onImage} url={url} />
