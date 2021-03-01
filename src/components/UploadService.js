@@ -10,7 +10,6 @@ class UploadService {
     
     let response = await fetch('https://facial-analysis-backend.herokuapp.com/api/upload/', {
       method: 'POST',
-      mode: "no-cors",
       body: data
     })
     let resp_data = await response.json()
