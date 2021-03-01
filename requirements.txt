@@ -1,0 +1,12 @@
+Flask
+tensorflow-cpu
+cython
+Keras
+opencv-python
+urllib3
+Pillow
+python-dotenv
+pandas
+matplotlib
+seaborn
+gunicorn
