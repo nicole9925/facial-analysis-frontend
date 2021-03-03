@@ -10,7 +10,7 @@ const UploadComponent = props => (
             key='image-uploader'
             withIcon={false}
             singleImage={true}
-            label="Please upload an image with a single face."
+            label="This is a static conceptual site. A default image will show."
             buttonText="Choose file"
             onChange={props.onImage}
             imgExtension={['.jpg', '.png', '.jpeg']}
