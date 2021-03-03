@@ -23,13 +23,43 @@
     margin-left: 0px;
 }
 
+.grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
 .image-container-ig {
     border-radius: 20px;
-    height: 250px;
+    height: 200px;
 } 
 
 .ig-container {
     display: flex;
     flex-direction: row;
+    margin-bottom: 30%;
+}
+
+.viz-container {
+    display: flex;
+    flex-direction: column;
+}
+.viz-headers {
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-around;
+}
+.viz-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.viz-button {
+   background-color: var(--submit);
+   color: white;
+   border: none;
+   padding: 10px;
+   padding-right: 20px;
+   padding-left: 20px;
 }
