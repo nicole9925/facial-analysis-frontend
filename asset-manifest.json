@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/facial-analysis-frontend/static/css/main.d8e726fe.chunk.css",
-    "main.js": "/facial-analysis-frontend/static/js/main.e42bb3cb.chunk.js",
-    "main.js.map": "/facial-analysis-frontend/static/js/main.e42bb3cb.chunk.js.map",
+    "main.js": "/facial-analysis-frontend/static/js/main.1bab1c3f.chunk.js",
+    "main.js.map": "/facial-analysis-frontend/static/js/main.1bab1c3f.chunk.js.map",
     "runtime-main.js": "/facial-analysis-frontend/static/js/runtime-main.a70284e1.js",
     "runtime-main.js.map": "/facial-analysis-frontend/static/js/runtime-main.a70284e1.js.map",
     "static/css/2.86e65bd8.chunk.css": "/facial-analysis-frontend/static/css/2.86e65bd8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.86e65bd8.chunk.css",
     "static/js/2.be102a9b.chunk.js",
     "static/css/main.d8e726fe.chunk.css",
-    "static/js/main.e42bb3cb.chunk.js"
+    "static/js/main.1bab1c3f.chunk.js"
   ]
 }
