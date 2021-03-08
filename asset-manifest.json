@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/facial-analysis-frontend/static/css/main.d8e726fe.chunk.css",
-    "main.js": "/facial-analysis-frontend/static/js/main.1bab1c3f.chunk.js",
-    "main.js.map": "/facial-analysis-frontend/static/js/main.1bab1c3f.chunk.js.map",
+    "main.css": "/facial-analysis-frontend/static/css/main.366eb074.chunk.css",
+    "main.js": "/facial-analysis-frontend/static/js/main.ae4fce2b.chunk.js",
+    "main.js.map": "/facial-analysis-frontend/static/js/main.ae4fce2b.chunk.js.map",
     "runtime-main.js": "/facial-analysis-frontend/static/js/runtime-main.a70284e1.js",
     "runtime-main.js.map": "/facial-analysis-frontend/static/js/runtime-main.a70284e1.js.map",
     "static/css/2.86e65bd8.chunk.css": "/facial-analysis-frontend/static/css/2.86e65bd8.chunk.css",
-    "static/js/2.be102a9b.chunk.js": "/facial-analysis-frontend/static/js/2.be102a9b.chunk.js",
-    "static/js/2.be102a9b.chunk.js.map": "/facial-analysis-frontend/static/js/2.be102a9b.chunk.js.map",
+    "static/js/2.4061def1.chunk.js": "/facial-analysis-frontend/static/js/2.4061def1.chunk.js",
+    "static/js/2.4061def1.chunk.js.map": "/facial-analysis-frontend/static/js/2.4061def1.chunk.js.map",
     "index.html": "/facial-analysis-frontend/index.html",
     "static/css/2.86e65bd8.chunk.css.map": "/facial-analysis-frontend/static/css/2.86e65bd8.chunk.css.map",
-    "static/css/main.d8e726fe.chunk.css.map": "/facial-analysis-frontend/static/css/main.d8e726fe.chunk.css.map",
-    "static/js/2.be102a9b.chunk.js.LICENSE.txt": "/facial-analysis-frontend/static/js/2.be102a9b.chunk.js.LICENSE.txt",
-    "static/media/UploadIcon.svg": "/facial-analysis-frontend/static/media/UploadIcon.469126df.svg"
+    "static/css/main.366eb074.chunk.css.map": "/facial-analysis-frontend/static/css/main.366eb074.chunk.css.map",
+    "static/js/2.4061def1.chunk.js.LICENSE.txt": "/facial-analysis-frontend/static/js/2.4061def1.chunk.js.LICENSE.txt",
+    "static/media/EA_biased.a6807cb7.png": "/facial-analysis-frontend/static/media/EA_biased.a6807cb7.png",
+    "static/media/EA_unbiased.ee9c6a0d.png": "/facial-analysis-frontend/static/media/EA_unbiased.ee9c6a0d.png",
+    "static/media/UploadIcon.svg": "/facial-analysis-frontend/static/media/UploadIcon.469126df.svg",
+    "static/media/indian_biased.6ce38725.png": "/facial-analysis-frontend/static/media/indian_biased.6ce38725.png",
+    "static/media/indian_unbiased.0e8885fb.png": "/facial-analysis-frontend/static/media/indian_unbiased.0e8885fb.png",
+    "static/media/michael.c617493a.png": "/facial-analysis-frontend/static/media/michael.c617493a.png",
+    "static/media/nicole.72d78e29.png": "/facial-analysis-frontend/static/media/nicole.72d78e29.png",
+    "static/media/sudiksha.377ac5d6.png": "/facial-analysis-frontend/static/media/sudiksha.377ac5d6.png",
+    "static/media/white_biased.8917dc0d.png": "/facial-analysis-frontend/static/media/white_biased.8917dc0d.png",
+    "static/media/white_unbiased.298bac47.png": "/facial-analysis-frontend/static/media/white_unbiased.298bac47.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a70284e1.js",
     "static/css/2.86e65bd8.chunk.css",
-    "static/js/2.be102a9b.chunk.js",
-    "static/css/main.d8e726fe.chunk.css",
-    "static/js/main.1bab1c3f.chunk.js"
+    "static/js/2.4061def1.chunk.js",
+    "static/css/main.366eb074.chunk.css",
+    "static/js/main.ae4fce2b.chunk.js"
   ]
 }
